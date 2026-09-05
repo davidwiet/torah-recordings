@@ -1,8 +1,8 @@
 [
   {
     "id": "bd9984fa3af790e1fd49020b",
-    "title": "נשא — עלייה 1 — איטי / slow",
-    "description": "קריאה בתורה מאת דוד ויצ׳נר. פרשת נשא, עלייה 1. Hebrew Torah reading by David Wietchner.",
+    "title": "נשא - ראשון - איטי",
+    "description": "קריאה בתורה מאת דוד ויצ׳נר. פרשת נשא, ראשון. Hebrew Torah reading by David Wietchner.",
     "parasha": "נשא",
     "aliyah": 1,
     "pace": "slow",
@@ -12,8 +12,8 @@
   },
   {
     "id": "04dbe89702d3054d5b291d46",
-    "title": "מטות־מסעי — עלייה 1",
-    "description": "קריאה בתורה מאת דוד ויצ׳נר. פרשת מטות־מסעי, עלייה 1. Hebrew Torah reading by David Wietchner.",
+    "title": "מטות-מסעי ראשון",
+    "description": "קריאה בתורה מאת דוד ויצ׳נר. פרשת מטות־מסעי, ראשון. Hebrew Torah reading by David Wietchner.",
     "parasha": "מטות־מסעי",
     "aliyah": 1,
     "pace": "unspecified",
@@ -23,8 +23,8 @@
   },
   {
     "id": "be722e187e49853d877db213",
-    "title": "מטות־מסעי — עלייה 2",
-    "description": "קריאה בתורה מאת דוד ויצ׳נר. פרשת מטות־מסעי, עלייה 2. Hebrew Torah reading by David Wietchner.",
+    "title": "מטות מסעי שני",
+    "description": "קריאה בתורה מאת דוד ויצ׳נר. פרשת מטות־מסעי, שני. Hebrew Torah reading by David Wietchner.",
     "parasha": "מטות־מסעי",
     "aliyah": 2,
     "pace": "unspecified",
@@ -34,8 +34,8 @@
   },
   {
     "id": "815e1e30c00f05c9b8d68754",
-    "title": "מטות־מסעי — עלייה 3",
-    "description": "קריאה בתורה מאת דוד ויצ׳נר. פרשת מטות־מסעי, עלייה 3. Hebrew Torah reading by David Wietchner.",
+    "title": "מטות מסעי שלישי",
+    "description": "קריאה בתורה מאת דוד ויצ׳נר. פרשת מטות־מסעי, שלישי. Hebrew Torah reading by David Wietchner.",
     "parasha": "מטות־מסעי",
     "aliyah": 3,
     "pace": "unspecified",
@@ -45,8 +45,8 @@
   },
   {
     "id": "2b395f20b7cadea8a5257f19",
-    "title": "מטות־מסעי — עלייה 4",
-    "description": "קריאה בתורה מאת דוד ויצ׳נר. פרשת מטות־מסעי, עלייה 4. Hebrew Torah reading by David Wietchner.",
+    "title": "מטות מסעי רביעי",
+    "description": "קריאה בתורה מאת דוד ויצ׳נר. פרשת מטות־מסעי, רביעי. Hebrew Torah reading by David Wietchner.",
     "parasha": "מטות־מסעי",
     "aliyah": 4,
     "pace": "unspecified",
