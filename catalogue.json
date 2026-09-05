@@ -1,0 +1,57 @@
+[
+  {
+    "id": "bd9984fa3af790e1fd49020b",
+    "title": "נשא — עלייה 1 — איטי / slow",
+    "description": "קריאה בתורה מאת דוד ויצ׳נר. פרשת נשא, עלייה 1. Hebrew Torah reading by David Wietchner.",
+    "parasha": "נשא",
+    "aliyah": 1,
+    "pace": "slow",
+    "duration_seconds": 355.578688,
+    "guid": "urn:uuid:ce87bc17-c82e-5b54-8522-e0be937357ab",
+    "remote_url": "https://archive.org/download/david-wietchner-torah-bd9984fa3af790e1fd49020b/bd9984fa3af790e1fd49020b.mp3"
+  },
+  {
+    "id": "04dbe89702d3054d5b291d46",
+    "title": "מטות־מסעי — עלייה 1",
+    "description": "קריאה בתורה מאת דוד ויצ׳נר. פרשת מטות־מסעי, עלייה 1. Hebrew Torah reading by David Wietchner.",
+    "parasha": "מטות־מסעי",
+    "aliyah": 1,
+    "pace": "unspecified",
+    "duration_seconds": 353.933061,
+    "guid": "urn:uuid:46ff082f-6872-5194-90e0-b90662175621",
+    "remote_url": "https://archive.org/download/david-wietchner-torah-04dbe89702d3054d5b291d46/04dbe89702d3054d5b291d46.mp3"
+  },
+  {
+    "id": "be722e187e49853d877db213",
+    "title": "מטות־מסעי — עלייה 2",
+    "description": "קריאה בתורה מאת דוד ויצ׳נר. פרשת מטות־מסעי, עלייה 2. Hebrew Torah reading by David Wietchner.",
+    "parasha": "מטות־מסעי",
+    "aliyah": 2,
+    "pace": "unspecified",
+    "duration_seconds": 449.201633,
+    "guid": "urn:uuid:33f1b0d8-5a34-5aff-9f0f-c305dd674490",
+    "remote_url": "https://archive.org/download/david-wietchner-torah-be722e187e49853d877db213/be722e187e49853d877db213.mp3"
+  },
+  {
+    "id": "815e1e30c00f05c9b8d68754",
+    "title": "מטות־מסעי — עלייה 3",
+    "description": "קריאה בתורה מאת דוד ויצ׳נר. פרשת מטות־מסעי, עלייה 3. Hebrew Torah reading by David Wietchner.",
+    "parasha": "מטות־מסעי",
+    "aliyah": 3,
+    "pace": "unspecified",
+    "duration_seconds": 192.862041,
+    "guid": "urn:uuid:732c6378-30b2-5200-bcd7-147966168733",
+    "remote_url": "https://archive.org/download/david-wietchner-torah-815e1e30c00f05c9b8d68754/815e1e30c00f05c9b8d68754.mp3"
+  },
+  {
+    "id": "2b395f20b7cadea8a5257f19",
+    "title": "מטות־מסעי — עלייה 4",
+    "description": "קריאה בתורה מאת דוד ויצ׳נר. פרשת מטות־מסעי, עלייה 4. Hebrew Torah reading by David Wietchner.",
+    "parasha": "מטות־מסעי",
+    "aliyah": 4,
+    "pace": "unspecified",
+    "duration_seconds": 536.450612,
+    "guid": "urn:uuid:6360bf96-ec75-515e-a2f2-08d2ea4b6270",
+    "remote_url": "https://archive.org/download/david-wietchner-torah-2b395f20b7cadea8a5257f19/2b395f20b7cadea8a5257f19.mp3"
+  }
+]

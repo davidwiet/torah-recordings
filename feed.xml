@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>קריאת התורה — דוד ויצ׳נר | Torah Readings — David Wietchner</title>
+    <link>https://davidwiet.github.io/torah-recordings/</link>
+    <description>קריאה בתורה לפי פרשה ועלייה, עם גרסאות איטיות לתרגול. Hebrew Torah readings by David Wietchner, organized by portion and aliyah, including slow practice recordings.</description>
+    <language>he</language>
+    <atom:link href="https://davidwiet.github.io/torah-recordings/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>David Wietchner</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://davidwiet.github.io/torah-recordings/cover.jpg" />
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism" />
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>David Wietchner</itunes:name>
+      <itunes:email>david.wiet@gmail.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>נשא — עלייה 1 — איטי / slow</title>
+      <description>קריאה בתורה מאת דוד ויצ׳נר. פרשת נשא, עלייה 1. Hebrew Torah reading by David Wietchner.</description>
+      <guid isPermaLink="false">urn:uuid:ce87bc17-c82e-5b54-8522-e0be937357ab</guid>
+      <link>https://archive.org/details/david-wietchner-torah-bd9984fa3af790e1fd49020b</link>
+      <pubDate>Sat, 05 Sep 2026 20:24:47 +0000</pubDate>
+      <enclosure url="https://archive.org/download/david-wietchner-torah-bd9984fa3af790e1fd49020b/bd9984fa3af790e1fd49020b.mp3" length="5689259" type="audio/mpeg" />
+      <itunes:duration>356</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>מטות־מסעי — עלייה 1</title>
+      <description>קריאה בתורה מאת דוד ויצ׳נר. פרשת מטות־מסעי, עלייה 1. Hebrew Torah reading by David Wietchner.</description>
+      <guid isPermaLink="false">urn:uuid:46ff082f-6872-5194-90e0-b90662175621</guid>
+      <link>https://archive.org/details/david-wietchner-torah-04dbe89702d3054d5b291d46</link>
+      <pubDate>Sat, 05 Sep 2026 20:24:47 +0000</pubDate>
+      <enclosure url="https://archive.org/download/david-wietchner-torah-04dbe89702d3054d5b291d46/04dbe89702d3054d5b291d46.mp3" length="5663808" type="audio/mpeg" />
+      <itunes:duration>354</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>מטות־מסעי — עלייה 2</title>
+      <description>קריאה בתורה מאת דוד ויצ׳נר. פרשת מטות־מסעי, עלייה 2. Hebrew Torah reading by David Wietchner.</description>
+      <guid isPermaLink="false">urn:uuid:33f1b0d8-5a34-5aff-9f0f-c305dd674490</guid>
+      <link>https://archive.org/details/david-wietchner-torah-be722e187e49853d877db213</link>
+      <pubDate>Sat, 05 Sep 2026 20:24:47 +0000</pubDate>
+      <enclosure url="https://archive.org/download/david-wietchner-torah-be722e187e49853d877db213/be722e187e49853d877db213.mp3" length="7188106" type="audio/mpeg" />
+      <itunes:duration>449</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>מטות־מסעי — עלייה 3</title>
+      <description>קריאה בתורה מאת דוד ויצ׳נר. פרשת מטות־מסעי, עלייה 3. Hebrew Torah reading by David Wietchner.</description>
+      <guid isPermaLink="false">urn:uuid:732c6378-30b2-5200-bcd7-147966168733</guid>
+      <link>https://archive.org/details/david-wietchner-torah-815e1e30c00f05c9b8d68754</link>
+      <pubDate>Sat, 05 Sep 2026 20:24:47 +0000</pubDate>
+      <enclosure url="https://archive.org/download/david-wietchner-torah-815e1e30c00f05c9b8d68754/815e1e30c00f05c9b8d68754.mp3" length="3086672" type="audio/mpeg" />
+      <itunes:duration>193</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>מטות־מסעי — עלייה 4</title>
+      <description>קריאה בתורה מאת דוד ויצ׳נר. פרשת מטות־מסעי, עלייה 4. Hebrew Torah reading by David Wietchner.</description>
+      <guid isPermaLink="false">urn:uuid:6360bf96-ec75-515e-a2f2-08d2ea4b6270</guid>
+      <link>https://archive.org/details/david-wietchner-torah-2b395f20b7cadea8a5257f19</link>
+      <pubDate>Sat, 05 Sep 2026 20:24:47 +0000</pubDate>
+      <enclosure url="https://archive.org/download/david-wietchner-torah-2b395f20b7cadea8a5257f19/2b395f20b7cadea8a5257f19.mp3" length="8584089" type="audio/mpeg" />
+      <itunes:duration>536</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
