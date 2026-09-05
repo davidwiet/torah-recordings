@@ -29,6 +29,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <category domain="https://davidwiet.github.io/torah-recordings/categories/portion">נשא</category>
       <category domain="https://davidwiet.github.io/torah-recordings/categories/speed">איטי</category>
+      <itunes:keywords>נשא,איטי</itunes:keywords>
     </item>
     <item>
       <title>מטות-מסעי ראשון</title>
@@ -42,6 +43,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <category domain="https://davidwiet.github.io/torah-recordings/categories/portion">מטות־מסעי</category>
       <category domain="https://davidwiet.github.io/torah-recordings/categories/speed">קצב לא צוין</category>
+      <itunes:keywords>מטות־מסעי,קצב_לא_צוין</itunes:keywords>
     </item>
     <item>
       <title>מטות מסעי שני</title>
@@ -55,6 +57,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <category domain="https://davidwiet.github.io/torah-recordings/categories/portion">מטות־מסעי</category>
       <category domain="https://davidwiet.github.io/torah-recordings/categories/speed">קצב לא צוין</category>
+      <itunes:keywords>מטות־מסעי,קצב_לא_צוין</itunes:keywords>
     </item>
     <item>
       <title>מטות מסעי שלישי</title>
@@ -68,6 +71,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <category domain="https://davidwiet.github.io/torah-recordings/categories/portion">מטות־מסעי</category>
       <category domain="https://davidwiet.github.io/torah-recordings/categories/speed">קצב לא צוין</category>
+      <itunes:keywords>מטות־מסעי,קצב_לא_צוין</itunes:keywords>
     </item>
     <item>
       <title>מטות מסעי רביעי</title>
@@ -81,6 +85,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <category domain="https://davidwiet.github.io/torah-recordings/categories/portion">מטות־מסעי</category>
       <category domain="https://davidwiet.github.io/torah-recordings/categories/speed">קצב לא צוין</category>
+      <itunes:keywords>מטות־מסעי,קצב_לא_צוין</itunes:keywords>
     </item>
   </channel>
 </rss>
